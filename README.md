@@ -43,7 +43,7 @@ _A list of my commonly used Git commands_
 | `git merge [source branch] [target branch]` | Merge a branch into a target branch |
 | `git stash` | Stash changes in a dirty working directory |
 | `git stash clear` | Remove all stashed entries |
-| `git rebase [branch name]` | Copy commit before newest commit of target branch !!!NOT SURE!!! |
+| `git rebase [branch name]` | Copy commit before newest commit of target branch |
 
 ### Sharing & Updating Projects
 
@@ -57,7 +57,6 @@ _A list of my commonly used Git commands_
 | `git pull origin [branch name]` | Pull changes from remote repository |
 | `git remote add origin ssh://git@github.com/[username]/[repository-name].git` | Add a remote repository |
 | `git remote set-url origin ssh://git@github.com/[username]/[repository-name].git` | Set a repository's origin branch to SSH |
-| `git push <remote> --delete <branch>` | Remotely delete branch |
 
 ### Inspection & Comparison
 
